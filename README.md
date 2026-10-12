@@ -62,7 +62,9 @@ Os comparativos seguem os filtros aplicados: com apenas o Ano selecionado, o pai
 
 O painel é composto por uma única página, com filtros de Ano, Mês, Semestre, País e Categoria que atualizam todos os visuais ao mesmo tempo.
 
-`![Visão geral do painel](imagens/painel-completo.png)`
+
+<img width="772" height="497" alt="geral" src="https://github.com/user-attachments/assets/ce3c8397-cf63-4d03-b4b3-fa88df0155b2" />
+
 
 ### Como ler o painel
 
@@ -78,31 +80,38 @@ A cor vinho sinaliza pontos de atenção:
 
 Os cards de Receita e Lucro mostram o resultado total do período selecionado, com o comparativo contra o mês anterior e contra o ano anterior. O comparativo com o ano anterior aparece quando um Ano é selecionado. O comparativo com o mês anterior só aparece quando Ano e Mês estão selecionados, o que foi definido de propósito para evitar ambiguidade sobre qual período está sendo comparado.
 
-`![Indicadores principais](imagens/indicadores-principais.png)`
+![Uploading KPIS.png…]()
+
+<img width="458" height="111" alt="KPIS" src="https://github.com/user-attachments/assets/a17339fb-4433-4389-878e-59fb5c13ec4b" />
+
 
 ### 2. Margem de lucro por mês
 
 O gráfico acompanha a margem de lucro mês a mês e permite identificar em quais meses a rentabilidade ficou acima ou abaixo da média do período, representada pela linha tracejada.
 
-`![Margem de lucro por mês](imagens/margem-por-mes.png)`
+<img width="725" height="171" alt="margem lucro" src="https://github.com/user-attachments/assets/0b2c350d-e973-4359-bd04-7e914bbf7eca" />
+
 
 ### 3. Receita por mês
 
 A evolução mensal da receita mostra a distribuição da receita ao longo do ano e destaca os meses com desempenho abaixo da média.
 
-`![Receita por mês](imagens/receita-por-mes.png)`
+<img width="708" height="196" alt="receita por mês" src="https://github.com/user-attachments/assets/49e297ad-3317-4e52-8a3a-67b8930a053b" />
+
 
 ### 4. Lucro por localidade
 
 O ranking de países por lucro mostra onde a operação gera mais resultado e quais mercados tiveram queda de lucro em relação ao ano anterior.
 
-`![Lucro por localidade](imagens/lucro-por-localidade.png)`
+<img width="674" height="478" alt="pais" src="https://github.com/user-attachments/assets/d5e6a45f-4e67-41ae-b330-e29783dbe897" />
+
 
 ### 5. Visão detalhada por categoria
 
 A tabela reúne, por categoria de produto, Receita, % Receita, Lucro Bruto, Margem Lucro, Ticket Médio, YoY e Receita perdida, com total ao final.
 
-`![Visão detalhada](imagens/visao-detalhada.png)`
+<img width="717" height="279" alt="visao detalhada" src="https://github.com/user-attachments/assets/083e887e-5953-4d7e-a8c9-29f21e225912" />
+
 
 ## Principais Insights do Painel
 
