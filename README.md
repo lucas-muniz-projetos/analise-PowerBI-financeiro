@@ -80,10 +80,7 @@ A cor vinho sinaliza pontos de atenção:
 
 Os cards de Receita e Lucro mostram o resultado total do período selecionado, com o comparativo contra o mês anterior e contra o ano anterior. O comparativo com o ano anterior aparece quando um Ano é selecionado. O comparativo com o mês anterior só aparece quando Ano e Mês estão selecionados, o que foi definido de propósito para evitar ambiguidade sobre qual período está sendo comparado.
 
-![Uploading KPIS.png…]()
-
 <img width="458" height="111" alt="KPIS" src="https://github.com/user-attachments/assets/a17339fb-4433-4389-878e-59fb5c13ec4b" />
-
 
 ### 2. Margem de lucro por mês
 
